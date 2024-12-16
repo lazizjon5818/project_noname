@@ -1,8 +1,8 @@
 import React from 'react'
-import image1 from '@/assets/images/instagram/image1.png'
-import image2 from '@/assets/images/instagram/image2.png'
-import image3 from '@/assets/images/instagram/image3.png'
-import image4 from '@/assets/images/instagram/image4.png'
+import image1 from '@/assets/images/instagram/Image1.png'
+import image2 from '@/assets/images/instagram/Image2.png'
+import image3 from '@/assets/images/instagram/Image3.png'
+import image4 from '@/assets/images/instagram/Image4.png'
 
 
 const images = [
