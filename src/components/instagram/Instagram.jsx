@@ -11,7 +11,7 @@ const images = [
   image3,
   image4,
 ]
-
+ 
 function Instagram() {
   return (
     <div className='h-[550px] container flex align-center justify-center'>
